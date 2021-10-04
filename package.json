@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@sentrei/next": "^1.13.0",
-    "@sentrei/postcss": "^1.4.3",
+    "@sentrei/postcss": "^1.4.5",
     "@sentrei/tailwindcss": "^1.5.0"
   },
   "devDependencies": {
